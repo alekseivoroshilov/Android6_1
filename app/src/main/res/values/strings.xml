@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab6_1</string>
+    <string name="to_asynс_task">to asynс task</string>
+    <string name="to_coroutine">to coroutine</string>
+</resources>
